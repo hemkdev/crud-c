@@ -1,4 +1,4 @@
-# CRUD-C: Sistema Básico de Gerenciamento de Usuários em C
+Sistema Básico de Gerenciamento de Usuários em C
 
 ## Sobre
 
